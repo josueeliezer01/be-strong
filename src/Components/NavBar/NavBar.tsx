@@ -154,10 +154,6 @@ export const NavBar: React.FC = () => {
               placeholder="PROCURAR"
               className="search-input"
             />
-
-            <button className="search-button" aria-label="Buscar">
-              <SearchIcon />
-            </button>
           </div>
 
           <button

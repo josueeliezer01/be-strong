@@ -10,11 +10,11 @@ import 'swiper/css/pagination';
 import './Carousel.css';
 
 const images = [
-  '/carousel/img1.jpeg',
-  '/carousel/img2.webp',
-  '/carousel/img3.webp',
-  '/carousel/img4.webp',
-  '/carousel/img5.webp',
+  '/carousel/img1.jpg',
+  '/carousel/img2.png',
+  '/carousel/img3.png',
+  '/carousel/img4.png',
+  '/carousel/img5.png',
 ];
 
 const Carousel: React.FC = () => {

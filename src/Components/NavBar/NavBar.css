@@ -180,6 +180,33 @@
   display: none;
 }
 
+@media (max-width: 1450px) {
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
+
+  .nav-links {
+    gap: 0 0.8em;
+  }
+
+  .nav-links a {
+    font-size: 14px;
+  }
+
+  .search-input {
+    padding: 0.3rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  .logo-link {
+    margin-right: 1rem;
+  }
+
+  .navbar-right {
+    gap: 0.5rem;
+  }
+}
+
 @media (max-width: 1024px) {
   .desktop-only {
     display: none;
