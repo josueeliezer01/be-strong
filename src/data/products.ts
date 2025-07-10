@@ -76,7 +76,7 @@ export const products: Product[] = [
   {
     id: 4,
     name: 'Creatine Monohydrate',
-    image: '/products/creatine-monohydrate.jpg',
+    image: '/products/creatine-monohydrate.webp',
     description:
       'Pure creatine monohydrate to boost strength and power output.',
     sportNutrition: true,
@@ -150,7 +150,7 @@ export const products: Product[] = [
   {
     id: 8,
     name: 'Mass Gainer XXL',
-    image: '/products/mass-gainer-xxl.jpg',
+    image: '/products/mass-gainer-xxl.jpeg',
     description: 'Calorie-dense mass gainer to support serious muscle growth.',
     sportNutrition: true,
     healthyEating: false,
@@ -224,7 +224,7 @@ export const products: Product[] = [
     id: 12,
     name: 'Gluten‑Free Oats',
     image: '/products/gluten-free-oats.jpg',
-    description: 'Premium gluten‑free rolled oats for hearty breakfasts.',
+    description: 'Organic roasted & salted pumpkin seeds.',
     sportNutrition: false,
     healthyEating: true,
     wellness: false,
@@ -240,8 +240,8 @@ export const products: Product[] = [
   },
   {
     id: 13,
-    name: 'Vegan Protein Blend',
-    image: '/products/vegan-protein-blend.jpg',
+    name: 'Organic Pumpkin Seeds',
+    image: '/products/organic-pumpkin-seeds.jpg',
     description: 'Plant‑based protein from peas, rice and hemp.',
     sportNutrition: false,
     healthyEating: true,
@@ -331,7 +331,7 @@ export const products: Product[] = [
   {
     id: 18,
     name: 'Coconut Aminos',
-    image: '/products/coconut-aminos.jpg',
+    image: '/products/coconut-aminos.avif',
     description: 'Soy‑free alternative to soy sauce made from coconut sap.',
     sportNutrition: false,
     healthyEating: true,
@@ -349,7 +349,7 @@ export const products: Product[] = [
   {
     id: 19,
     name: 'Matcha Green Tea Powder',
-    image: '/products/matcha-green-tea-powder.jpg',
+    image: '/products/matcha-green-tea-powder.avif',
     description: 'Ceremonial grade matcha for energy and antioxidants.',
     sportNutrition: false,
     healthyEating: true,
@@ -386,7 +386,7 @@ export const products: Product[] = [
   {
     id: 21,
     name: 'Turmeric Curcumin Complex',
-    image: '/products/turmeric-curcumin-complex.jpg',
+    image: '/products/turmeric-curcumin-complex.avif',
     description:
       'Premium turmeric extract with piperine for enhanced absorption.',
     sportNutrition: false,
@@ -405,7 +405,7 @@ export const products: Product[] = [
   {
     id: 22,
     name: 'Probiotic 10 Billion CFU',
-    image: '/products/probiotic-10b-cfu.jpg',
+    image: '/products/probiotic-10b-cfu.avif',
     description: 'Multi‑strain probiotic blend to support gut health.',
     sportNutrition: false,
     healthyEating: false,
@@ -441,7 +441,7 @@ export const products: Product[] = [
   {
     id: 24,
     name: 'Ashwagandha KSM-66',
-    image: '/products/ashwagandha-ksm66.jpg',
+    image: '/products/ashwagandha-ksm66.avif',
     description:
       'Standardized ashwagandha root extract for stress relief and focus.',
     sportNutrition: false,
@@ -460,7 +460,7 @@ export const products: Product[] = [
   {
     id: 25,
     name: 'Melatonin 5mg',
-    image: '/products/melatonin-5mg.jpg',
+    image: '/products/melatonin-5mg.avif',
     description: 'Fast‑release melatonin to support healthy sleep cycles.',
     sportNutrition: false,
     healthyEating: false,
@@ -496,7 +496,7 @@ export const products: Product[] = [
   {
     id: 27,
     name: 'Magnesium Bisglycinate',
-    image: '/products/magnesium-bisglycinate.jpg',
+    image: '/products/magnesium-bisglycinate.png',
     description: 'Highly absorbable magnesium for muscle relaxation and sleep.',
     sportNutrition: false,
     healthyEating: false,
@@ -514,7 +514,7 @@ export const products: Product[] = [
   {
     id: 28,
     name: 'Collagen Peptides',
-    image: '/products/collagen-peptides.jpg',
+    image: '/products/collagen-peptides.webp',
     description: 'Hydrolyzed collagen for skin, hair and joint health.',
     sportNutrition: false,
     healthyEating: false,
@@ -532,7 +532,7 @@ export const products: Product[] = [
   {
     id: 29,
     name: 'Turmeric & Ginger Tea',
-    image: '/products/turmeric-ginger-tea.jpg',
+    image: '/products/turmeric-ginger-tea.webp',
     description: 'Calming herbal tea blend to support inflammation balance.',
     sportNutrition: false,
     healthyEating: false,
@@ -570,7 +570,7 @@ export const products: Product[] = [
   {
     id: 31,
     name: 'Green Tea Fat Burner',
-    image: '/products/green-tea-fat-burner.jpg',
+    image: '/products/green-tea-fat-burner.avif',
     description: 'Thermogenic green tea extract to support fat metabolism.',
     sportNutrition: false,
     healthyEating: false,
@@ -606,7 +606,7 @@ export const products: Product[] = [
   {
     id: 33,
     name: 'CLA Softgels',
-    image: '/products/cla-softgels.jpg',
+    image: '/products/cla-softgels.webp',
     description: 'Conjugated Linoleic Acid to help reduce body fat mass.',
     sportNutrition: false,
     healthyEating: false,
@@ -678,7 +678,7 @@ export const products: Product[] = [
   {
     id: 37,
     name: 'Thermo Burner Max',
-    image: '/products/thermo-burner-max.jpg',
+    image: '/products/thermo-burner-max.avif',
     description: 'Advanced thermogenic formula with caffeine and cayenne.',
     sportNutrition: false,
     healthyEating: false,
@@ -696,7 +696,7 @@ export const products: Product[] = [
   {
     id: 38,
     name: 'Meal Replacement Shake - Chocolate',
-    image: '/products/meal-replacement-chocolate.jpg',
+    image: '/products/meal-replacement-chocolate.webp',
     description: 'Low-calorie, protein-rich shake to substitute meals.',
     sportNutrition: false,
     healthyEating: false,
@@ -714,7 +714,7 @@ export const products: Product[] = [
   {
     id: 39,
     name: 'Garcinia Cambogia Extract',
-    image: '/products/garcinia-cambogia.jpg',
+    image: '/products/garcinia-cambogia.avif',
     description: 'Popular natural extract to curb cravings and burn fat.',
     sportNutrition: false,
     healthyEating: false,
@@ -732,7 +732,7 @@ export const products: Product[] = [
   {
     id: 40,
     name: 'Detox Herbal Tea',
-    image: '/products/detox-herbal-tea.jpg',
+    image: '/products/detox-herbal-tea.webp',
     description: 'Soothing herbal tea blend to support weight and digestion.',
     sportNutrition: false,
     healthyEating: false,
@@ -751,7 +751,7 @@ export const products: Product[] = [
   {
     id: 41,
     name: 'Maca Root Capsules',
-    image: '/products/maca-root-capsules.jpg',
+    image: '/products/maca-root-capsules.jpeg',
     description: 'Natural supplement that supports libido and energy.',
     sportNutrition: false,
     healthyEating: false,
@@ -788,7 +788,7 @@ export const products: Product[] = [
   {
     id: 43,
     name: 'Zinc + Tribulus',
-    image: '/products/zinc-tribulus.jpg',
+    image: '/products/zinc-tribulus.png',
     description:
       'Mineral and herbal combination for hormonal balance and vitality.',
     sportNutrition: false,
@@ -807,7 +807,7 @@ export const products: Product[] = [
   {
     id: 44,
     name: 'Intimate Gel for Couples',
-    image: '/products/intimate-gel-couples.jpg',
+    image: '/products/intimate-gel-couples.avif',
     description:
       'Stimulating gel designed to enhance intimacy for both partners.',
     sportNutrition: false,
@@ -917,7 +917,7 @@ export const products: Product[] = [
   {
     id: 50,
     name: 'Couples Massage Oil',
-    image: '/products/couples-massage-oil.jpg',
+    image: '/products/couples-massage-oil.webp',
     description: 'Sensual massage oil to enhance connection and intimacy.',
     sportNutrition: false,
     healthyEating: false,
@@ -936,7 +936,7 @@ export const products: Product[] = [
   {
     id: 51,
     name: 'Collagen Skin Support',
-    image: '/products/collagen-skin-support.jpg',
+    image: '/products/collagen-skin-support.webp',
     description: 'Hydrolyzed collagen to support healthy, glowing skin.',
     sportNutrition: false,
     healthyEating: false,
@@ -972,7 +972,7 @@ export const products: Product[] = [
   {
     id: 53,
     name: 'Vitamin C Serum',
-    image: '/products/vitamin-c-serum.jpg',
+    image: '/products/vitamin-c-serum.webp',
     description: 'Antioxidant serum that brightens skin and evens tone.',
     sportNutrition: false,
     healthyEating: false,
@@ -990,7 +990,7 @@ export const products: Product[] = [
   {
     id: 54,
     name: 'Anti-Aging Retinol Cream',
-    image: '/products/retinol-cream.jpg',
+    image: '/products/retinol-cream.webp',
     description: 'Night cream with retinol to reduce fine lines and wrinkles.',
     sportNutrition: false,
     healthyEating: false,
@@ -1026,7 +1026,7 @@ export const products: Product[] = [
   {
     id: 56,
     name: 'Detox Charcoal Face Mask',
-    image: '/products/charcoal-face-mask.jpg',
+    image: '/products/charcoal-face-mask.webp',
     description: 'Cleansing face mask that removes impurities and blackheads.',
     sportNutrition: false,
     healthyEating: false,
@@ -1044,7 +1044,7 @@ export const products: Product[] = [
   {
     id: 57,
     name: 'Organic Argan Oil',
-    image: '/products/argan-oil.jpg',
+    image: '/products/argan-oil.webp',
     description: 'Pure Moroccan argan oil for skin and hair nourishment.',
     sportNutrition: false,
     healthyEating: false,
@@ -1062,7 +1062,7 @@ export const products: Product[] = [
   {
     id: 58,
     name: 'Exfoliating Facial Scrub',
-    image: '/products/facial-scrub.jpg',
+    image: '/products/facial-scrub.avif',
     description: 'Gentle exfoliator to remove dead skin and promote renewal.',
     sportNutrition: false,
     healthyEating: false,
@@ -1080,7 +1080,7 @@ export const products: Product[] = [
   {
     id: 59,
     name: 'Nourishing Lip Balm Set',
-    image: '/products/lip-balm-set.jpg',
+    image: '/products/lip-balm-set.jpeg',
     description: 'Set of moisturizing lip balms in assorted natural flavors.',
     sportNutrition: false,
     healthyEating: false,
@@ -1098,7 +1098,7 @@ export const products: Product[] = [
   {
     id: 60,
     name: 'Soothing Eye Cream',
-    image: '/products/eye-cream.jpg',
+    image: '/products/eye-cream.avif',
     description: 'Reduces puffiness and dark circles for a refreshed look.',
     sportNutrition: false,
     healthyEating: false,
@@ -1117,7 +1117,7 @@ export const products: Product[] = [
   {
     id: 61,
     name: 'Men’s Compression Shirt',
-    image: '/products/mens-compression-shirt.jpg',
+    image: '/products/mens-compression-shirt.webp',
     description:
       'Breathable and flexible compression shirt for optimal performance.',
     sportNutrition: false,
@@ -1136,7 +1136,7 @@ export const products: Product[] = [
   {
     id: 62,
     name: 'Women’s High-Waist Leggings',
-    image: '/products/womens-high-waist-leggings.jpg',
+    image: '/products/womens-high-waist-leggings.webp',
     description: 'Comfortable leggings with high compression and support.',
     sportNutrition: false,
     healthyEating: false,
@@ -1154,7 +1154,7 @@ export const products: Product[] = [
   {
     id: 63,
     name: 'Moisture-Wicking Tank Top',
-    image: '/products/moisture-wicking-tank-top.jpg',
+    image: '/products/moisture-wicking-tank-top.webp',
     description: 'Lightweight tank top that keeps you dry during workouts.',
     sportNutrition: false,
     healthyEating: false,
@@ -1172,7 +1172,7 @@ export const products: Product[] = [
   {
     id: 64,
     name: 'Unisex Gym Shorts',
-    image: '/products/unisex-gym-shorts.jpg',
+    image: '/products/unisex-gym-shorts.webp',
     description: 'Classic gym shorts with elastic waistband and side pockets.',
     sportNutrition: false,
     healthyEating: false,
@@ -1190,7 +1190,7 @@ export const products: Product[] = [
   {
     id: 65,
     name: 'Performance Sports Bra',
-    image: '/products/performance-sports-bra.jpg',
+    image: '/products/performance-sports-bra.webp',
     description: 'Medium-impact sports bra with breathable mesh panels.',
     sportNutrition: false,
     healthyEating: false,
@@ -1208,7 +1208,7 @@ export const products: Product[] = [
   {
     id: 66,
     name: 'Lightweight Running Jacket',
-    image: '/products/running-jacket.jpg',
+    image: '/products/running-jacket.webp',
     description: 'Windbreaker jacket ideal for running in any condition.',
     sportNutrition: false,
     healthyEating: false,
@@ -1226,7 +1226,7 @@ export const products: Product[] = [
   {
     id: 67,
     name: 'Breathable Workout Socks (3-Pack)',
-    image: '/products/workout-socks.jpg',
+    image: '/products/workout-socks.webp',
     description: 'Moisture-wicking socks with arch support and cushioning.',
     sportNutrition: false,
     healthyEating: false,
@@ -1244,7 +1244,7 @@ export const products: Product[] = [
   {
     id: 68,
     name: 'Quick-Dry Yoga Shorts',
-    image: '/products/yoga-shorts.jpg',
+    image: '/products/yoga-shorts.webp',
     description: 'Flexible and soft shorts designed for yoga and pilates.',
     sportNutrition: false,
     healthyEating: false,
@@ -1262,7 +1262,7 @@ export const products: Product[] = [
   {
     id: 69,
     name: 'Seamless Workout Set',
-    image: '/products/seamless-workout-set.jpg',
+    image: '/products/seamless-workout-set.webp',
     description: 'Matching set of leggings and top with seamless comfort.',
     sportNutrition: false,
     healthyEating: false,
@@ -1280,7 +1280,7 @@ export const products: Product[] = [
   {
     id: 70,
     name: 'Adjustable Fitness Cap',
-    image: '/products/fitness-cap.jpg',
+    image: '/products/fitness-cap.webp',
     description: 'Sweat-resistant cap for training under the sun.',
     sportNutrition: false,
     healthyEating: false,
@@ -1299,7 +1299,7 @@ export const products: Product[] = [
   {
     id: 71,
     name: 'Adjustable Dumbbell Set',
-    image: '/products/adjustable-dumbbell-set.jpg',
+    image: '/products/adjustable-dumbbell-set.webp',
     description: 'Compact adjustable dumbbells for home and gym workouts.',
     sportNutrition: false,
     healthyEating: false,
@@ -1317,7 +1317,7 @@ export const products: Product[] = [
   {
     id: 72,
     name: 'High-Density Foam Roller',
-    image: '/products/foam-roller.jpg',
+    image: '/products/foam-roller.webp',
     description: 'Durable foam roller for muscle recovery and flexibility.',
     sportNutrition: false,
     healthyEating: false,
@@ -1371,7 +1371,7 @@ export const products: Product[] = [
   {
     id: 75,
     name: 'Adjustable Ankle Weights',
-    image: '/products/ankle-weights.jpg',
+    image: '/products/ankle-weights.webp',
     description:
       'Pair of adjustable ankle weights to boost lower body training.',
     sportNutrition: false,
@@ -1390,7 +1390,7 @@ export const products: Product[] = [
   {
     id: 76,
     name: 'Gym Training Gloves',
-    image: '/products/gym-gloves.jpg',
+    image: '/products/gym-gloves.avif',
     description:
       'Padded gloves to protect hands and enhance grip during lifts.',
     sportNutrition: false,
@@ -1409,7 +1409,7 @@ export const products: Product[] = [
   {
     id: 77,
     name: 'Yoga Mat Non-Slip',
-    image: '/products/yoga-mat.jpg',
+    image: '/products/yoga-mat.webp',
     description: 'Eco-friendly yoga mat with excellent grip and cushioning.',
     sportNutrition: false,
     healthyEating: false,
@@ -1427,7 +1427,7 @@ export const products: Product[] = [
   {
     id: 78,
     name: 'Wrist Wraps for Lifting',
-    image: '/products/wrist-wraps.jpg',
+    image: '/products/wrist-wraps.webp',
     description: 'Heavy-duty wrist wraps for added support in weight training.',
     sportNutrition: false,
     healthyEating: false,
@@ -1502,7 +1502,7 @@ export const products: Product[] = [
   {
     id: 82,
     name: 'Wi-Fi Smart Plug',
-    image: '/products/smart-plug.jpg',
+    image: '/products/smart-plug.webp',
     description:
       'Control your appliances remotely with this compact smart plug.',
     sportNutrition: false,
@@ -1521,7 +1521,7 @@ export const products: Product[] = [
   {
     id: 83,
     name: 'Robot Vacuum Cleaner',
-    image: '/products/robot-vacuum.jpg',
+    image: '/products/robot-vacuum.webp',
     description: 'Automated smart vacuum with scheduling and app integration.',
     sportNutrition: false,
     healthyEating: false,
@@ -1539,7 +1539,7 @@ export const products: Product[] = [
   {
     id: 84,
     name: 'Home Security Camera 1080p',
-    image: '/products/security-camera.jpg',
+    image: '/products/security-camera.webp',
     description: 'Indoor Wi-Fi camera with motion detection and night vision.',
     sportNutrition: false,
     healthyEating: false,
@@ -1557,7 +1557,7 @@ export const products: Product[] = [
   {
     id: 85,
     name: 'Portable Mini Projector',
-    image: '/products/mini-projector.jpg',
+    image: '/products/mini-projector.webp',
     description: 'Compact projector for movies, gaming, and presentations.',
     sportNutrition: false,
     healthyEating: false,
@@ -1611,7 +1611,7 @@ export const products: Product[] = [
   {
     id: 88,
     name: 'Bluetooth Smart Scale',
-    image: '/products/smart-scale.jpg',
+    image: '/products/smart-scale.jpeg',
     description: 'Body fat scale with mobile app for progress tracking.',
     sportNutrition: false,
     healthyEating: false,
@@ -1629,7 +1629,7 @@ export const products: Product[] = [
   {
     id: 89,
     name: 'Digital Air Fryer 5L',
-    image: '/products/air-fryer.jpg',
+    image: '/products/air-fryer.webp',
     description: 'Smart air fryer with touchscreen and programmable modes.',
     sportNutrition: false,
     healthyEating: false,
@@ -1667,7 +1667,7 @@ export const products: Product[] = [
   {
     id: 91,
     name: 'Premium Dog Food 5kg',
-    image: '/products/premium-dog-food.jpg',
+    image: '/products/premium-dog-food.png',
     description: 'Complete and balanced dry food for adult dogs.',
     sportNutrition: false,
     healthyEating: false,
@@ -1685,7 +1685,7 @@ export const products: Product[] = [
   {
     id: 92,
     name: 'Grain-Free Cat Food 2kg',
-    image: '/products/grain-free-cat-food.jpg',
+    image: '/products/grain-free-cat-food.webp',
     description: 'Natural grain-free formula for sensitive cats.',
     sportNutrition: false,
     healthyEating: false,
@@ -1775,7 +1775,7 @@ export const products: Product[] = [
   {
     id: 97,
     name: 'Senior Cat Nutrition Formula',
-    image: '/products/senior-cat-food.jpg',
+    image: '/products/senior-cat-food.webp',
     description: 'Tailored dry food for cats aged 7 years and older.',
     sportNutrition: false,
     healthyEating: false,
@@ -1793,7 +1793,7 @@ export const products: Product[] = [
   {
     id: 98,
     name: 'Digestive Health Treats',
-    image: '/products/digestive-treats-pets.jpg',
+    image: '/products/digestive-treats-pets.webp',
     description: 'Soft chews to support gut health and digestion in pets.',
     sportNutrition: false,
     healthyEating: false,
@@ -1829,7 +1829,7 @@ export const products: Product[] = [
   {
     id: 100,
     name: 'Wet Food for Small Breed Dogs',
-    image: '/products/wet-food-small-dogs.jpg',
+    image: '/products/wet-food-small-dogs.webp',
     description: 'Balanced wet food made for small breed adult dogs.',
     sportNutrition: false,
     healthyEating: false,
